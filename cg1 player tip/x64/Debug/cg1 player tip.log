@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (cg1 player tip.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\OWNER\source\repos\cg1\cg1 player tip\shader_s.h(50,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\OWNER\source\repos\cg1\cg1 player tip\Source.cpp(115,21): warning C4101: nChannels: неиспользованная локальная переменная
+  cg1 player tip.vcxproj -> C:\Users\OWNER\source\repos\cg1\x64\Debug\cg1lab.exe
